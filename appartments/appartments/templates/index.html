@@ -1,14 +1,37 @@
 {% extends 'static/static.html' %}
 {% load static %}
 
-{% block title %}Your Page Title{% endblock %}
-
-{% block header %}
-<!-- Header -->
-<header class="w3-display-container w3-content" style="max-width:1500px;">
-    <img class="w3-image" src="{% static 'appartments/imgs/apt1.png' %}" alt="The Hotel" style="min-width:1000px" width="1500" height="800">
-</header>
+{% block links %}
+    <link rel="stylesheet" href="{% static 'stylesheets/index.css' %}">
 {% endblock %}
 
-{% block content %}
+{% block header %}
+<header class="w3-display-container w3-content header-background" style="max-width:1500px;">
+    <!-- Your header content here -->
+    <img src="{% static 'imgs/apt-background.png' %}" alt="Background Image">
+    <div class="hybrid-display w3-padding w3-col l6 m8">
+        <div class="w3-container logo">
+            <img src="{% static 'imgs/logo.png' %}" alt="Background Image" width="95%" height="95%">
+        </div>
+        <div class="w3-container w3-blue">
+          <h2><i class="fa fa-home w3-margin-right"></i>Find Apartment</h2>
+        </div>
+        <div class="w3-container w3-white w3-padding-16">
+            <form action="{% url 'search_apts' %}" method="post">
+                {% csrf_token %}
+                <div class="w3-row-padding" style="margin:0 -16px;">
+                    <div class="w3-half w3-margin-bottom">
+                        <label><i class="fa fa-money"></i> Monthly Rent (USD)</label>
+                        <input class="w3-input w3-border" type="number" placeholder="500" name="Rent" min="500">
+                    </div>
+                    <div class="w3-half">
+                        <label><i class="fa fa-truck"></i> Zip Code</label>
+                        <input class="w3-input w3-border" type="text" placeholder="76010" name="ZipCode">
+                    </div>
+                </div>
+                <button class="w3-button w3-dark-grey" type="submit"><i class="fa fa-search w3-margin-right"></i> Search</button>
+            </form>            
+        </div>
+    </div>
+</header>
 {% endblock %}
