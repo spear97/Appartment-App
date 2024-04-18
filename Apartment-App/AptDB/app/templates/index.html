@@ -3,6 +3,8 @@
 
 {% block links %}
     <link rel="stylesheet" href="{% static 'stylesheets/index.css' %}">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
 {% endblock %}
 
 {% block header %}
@@ -14,14 +16,14 @@
             <img src="{% static 'imgs/logo.png' %}" alt="Background Image" width="95%" height="95%">
         </div>
         <div class="w3-container w3-blue">
-          <h2><i class="fa fa-home w3-margin-right"></i>Find Apartment</h2>
+            <h2><i class="fa fa-home w3-margin-right"></i>Find Apartment</h2>
         </div>
         <div class="w3-container w3-white w3-padding-16">
             <form action="{% url 'search_apts' %}" method="post">
                 {% csrf_token %}
                 <div class="w3-row-padding" style="margin:0 -16px;">
                     <div class="w3-half w3-margin-bottom">
-                        <label><i class="fa fa-money"></i> Monthly Rent (USD)</label>
+                        <label><i class="fa fa-money"></i> Monthly Minimum</label>
                         <input class="w3-input w3-border" type="number" placeholder="500" name="Rent" min="500">
                     </div>
                     <div class="w3-half">
@@ -32,6 +34,12 @@
                 <button class="w3-button w3-dark-grey" type="submit"><i class="fa fa-search w3-margin-right"></i> Search</button>
             </form>            
         </div>
-    </div>
+    </div>    
 </header>
+{% endblock %}
+
+{% block content %}
+<div id="mapid" style="height: 400px;">
+    <script src="{% static 'scripts/mapscript.js' %}"></script>
+</div>
 {% endblock %}

@@ -17,12 +17,11 @@
         <a href="{% url 'browse_all' %}" class="w3-bar-item w3-button w3-right w3-light-grey w3-mobile">Browse All</a>
     </div>
 
-    <!-- Content Block -->
-    <div class="w3-content">
-        {% block content %}{% endblock %}
-    </div>
-
     <!-- Header Block-->
     {% block header %}{% endblock %}
+
+    <!-- Content Block -->
+    {% block content %}{% endblock %}
+
 </body>
 </html>

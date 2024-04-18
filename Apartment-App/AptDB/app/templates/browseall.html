@@ -1,0 +1,17 @@
+{% extends 'static/static.html' %}
+{% load static %}
+
+{% block links %}
+    <link rel="stylesheet" href="{% static 'stylesheets/index.css' %}">
+{% endblock %}
+
+{% block header %}
+<header class="w3-display-container w3-content header-background" style="max-width:1500px;">
+    <!-- Your header content here -->
+    <img src="{% static 'imgs/apt-background.png' %}" alt="Background Image">
+    <div class="hybrid-display w3-padding w3-col l6 m8">
+        <div class="w3-container w3-white w3-padding-16">          
+        </div>
+    </div>    
+</header>
+{% endblock %}
