@@ -22,3 +22,8 @@ class Info(models.Model):
 
     def __str__(self):
         return "{phone_number} {url}"
+
+class Coords(models.Model):
+    lat = models.FloatField()
+    long = models.FloatField()
+    apt = models.ForeignKey(Apt, on_delete=models.CASCADE)
