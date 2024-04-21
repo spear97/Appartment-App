@@ -39,7 +39,17 @@
 {% endblock %}
 
 {% block content %}
-<div id="mapid" style="height: 400px;">
-    <script src="{% static 'scripts/mapscript.js' %}"></script>
-</div>
+<div id="mapid" style="height: 400px;"></div>
+<script>
+    // Access JSON data in JavaScript
+    var coordsData = JSON.parse('{{ coords|safe }}');
+    var namesData = JSON.parse('{{ names|safe }}');
+    var addressData = JSON.parse('{{address|safe}}')
+</script>
+
+<script src="{% static 'scripts/mapscript.js' %}"></script>
+
+<!-- Include your external JavaScript file -->
+<!--<script src="{% static 'scripts/mapscript.js' %}"></script>-->
 {% endblock %}
+

@@ -1,10 +1,24 @@
+import json
 from django.shortcuts import render
-from .models import Apt, Amounts, Info
+from .models import *
 
-# Create your views here.
 def index(request):
-    addresses = Apt.objects.values_list('address', flat=True)
-    return render(request, 'index.html')
+    # Retrieve all Coords instances from the database
+    all_coords = list(Coords.objects.values_list('long', 'lat'))
+
+    # Retrieve all names from the Apt model
+    all_names = list(Apt.objects.values_list('name', flat=True))
+
+    # Retrieve all address from Apt model
+    all_addresses = list(Apt.objects.values_list('address', flat=True))
+
+    context = {
+        'coords': json.dumps(all_coords),
+        'names': json.dumps(all_names),
+        'address': json.dumps(all_addresses),
+    }
+
+    return render(request, 'index.html', context)
 
 def browse_all(request):
     return render(request, 'browseall.html')

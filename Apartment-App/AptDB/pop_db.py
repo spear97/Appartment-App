@@ -16,7 +16,7 @@ def load_db(filename):
 
     # Iterate over each list in row_lists and create model instances
     for row in row_lists:
-        apt_name, apt_address, min_amount, max_amount, phone_number, url, lat, long = row
+        apt_name, apt_address, min_amount, max_amount, phone_number, url, long, lat = row
 
         # Get or create Apt instance with the given address
         apt_instance, _ = Apt.objects.get_or_create(address=apt_address, defaults={'name': apt_name})
@@ -28,7 +28,22 @@ def load_db(filename):
         Info.objects.create(phone_number=phone_number, url=url, apt=apt_instance)
 
         # Create Coords instance and save it
-        Coords.objects.create(lat=lat, long=long, apt=apt_instance)
+        Coords.objects.create(long=long, lat=lat, apt=apt_instance)
 
+    #print('Data Successfully stored in Database!')
+
+# Define a function to delete data from specified models
+def delete_data():
+
+    # List of models from which data will be deleted
+    mymodels = [Info, Amounts, Apt]  # Assuming Info, Amounts, and Apt are Django model classes
+    
+    # Loop through each model
+    for m in mymodels:
+        # Delete all objects of the current model
+        m.objects.all().delete()
+
+# Check if the script is being run directly
 if __name__ == '__main__':
-    load_db('ApartmentLIst.xlsx')
+    # If the script is being run directly, load data from 'ApartmentList.xlsx'
+    load_db('ApartmentList.xlsx')  # Assuming load_db is a function defined elsewhere
