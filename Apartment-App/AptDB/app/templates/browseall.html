@@ -2,16 +2,28 @@
 {% load static %}
 
 {% block links %}
-    <link rel="stylesheet" href="{% static 'stylesheets/index.css' %}">
+    <link rel="stylesheet" href="{% static 'stylesheets/browseall.css' %}">
 {% endblock %}
 
 {% block header %}
 <header class="w3-display-container w3-content header-background" style="max-width:1500px;">
-    <!-- Your header content here -->
-    <img src="{% static 'imgs/apt-background.png' %}" alt="Background Image">
-    <div class="hybrid-display w3-padding w3-col l6 m8">
-        <div class="w3-container w3-white w3-padding-16">          
-        </div>
-    </div>    
+   <img src="{% static 'imgs/apt-background.png' %}" alt="Background Image" style="height: 50%; width: 100%;">
+   <img src="{% static 'imgs/logo.png' %}" alt="Logo Image" style="height: 25%; width: 25%; transform: translate(-50%, -200%); position: absolute; top: 50%; left: 50%;">
 </header>
 {% endblock %}
+
+{% block content %}
+<div class="w3-display-container w3-content header-background" style="max-width:1500px; transform: translate(0%, -50%)">
+    <!-- Container for room listings -->
+    <div id="aptContainer" class="w3-row-padding w3-padding-16">
+        <!-- Room listings will be dynamically generated here -->
+    </div>
+
+    <script>
+        var img_src = "{% static 'imgs/apts/Enclave-at-Mira-Lagos-I.png' %}";
+    </script>
+
+    <script src="{% static 'scripts/listingscript.js'%}"></script>
+</div>
+{% endblock %}
+

@@ -1,21 +1,14 @@
-var coords = coordsData;
-var names = namesData;
-var addresses = addressData;
-
-var initpoint = coords[0];
-
 // Initialize the map
-var mymap = L.map('mapid').setView(initpoint, 13);
+var mymap = L.map('mapid').setView([32.70085307741722, -97.21172616504451], 13);
 
 // Add a tile layer
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(mymap);
 
-for(let i = 0; i < coords.length; i++)
+for(var i=0; i < coordsData.length; i++)
 {
-    if (names[i] == undefined) continue;
-
-    var marker = L.marker(coords[i]).addTo(mymap);
-    marker.bindPopup("<b><u>"+ names[i] +"</u></b><br>" + "<b>" + addresses[i] + "</b>").openPopup();
+    // Add a marker for the first coordinate
+    L.marker(coordsData[i]).addTo(mymap)
+        .bindPopup('<b>Name:</b> ' + namesData[i] + '<br><b>Address:</b> ' + addressData[i]);
 }
