@@ -10,20 +10,16 @@ def index(request):
     # Retrieve all names from the Apt model
     all_names = list(Apt.objects.values_list('name', flat=True))
 
-    # Retrieve all address from Apt model
+    # Retrieve all addresses from Apt model
     all_addresses = list(Apt.objects.values_list('address', flat=True))
 
-    print(all_coords)
-    print(all_names)
-    print(all_addresses)
-
-    context = {
+    content = {
         'coords': json.dumps(all_coords),
         'names': json.dumps(all_names),
         'address': json.dumps(all_addresses),
     }
 
-    return render(request, 'index.html', context)
+    return render(request, 'index.html', content)
 
 def browse_all(request):
 

@@ -1,0 +1,953 @@
+{
+    "Apt": [
+        {
+            "id": 1,
+            "name": "Sterling Crest",
+            "address": "001 Silber Rd, Arlington, TX 76017"
+        },
+        {
+            "id": 2,
+            "name": "The Trails Apartments",
+            "address": "4912 Paces Trail, Arlington, TX 76017"
+        },
+        {
+            "id": 3,
+            "name": "Oak Chase",
+            "address": "4924 Sigmond Dr, Arlington, TX 76017"
+        },
+        {
+            "id": 4,
+            "name": "Parks at Treepoint",
+            "address": "6601 Treepoint Dr, Arlington, TX 76017"
+        },
+        {
+            "id": 5,
+            "name": "Kennington Apartments",
+            "address": "6406 Tealcove Dr, Arlington, TX 76017"
+        },
+        {
+            "id": 6,
+            "name": "Southpoint Villas",
+            "address": "5700 Median Way, Arlington, TX 76017"
+        },
+        {
+            "id": 7,
+            "name": "Town Arlington",
+            "address": "5900 US 287 Frontage Rd, Arlington, TX 76017"
+        },
+        {
+            "id": 8,
+            "name": "Alta Landing",
+            "address": "3100 Joplin Rd, Kennedale, TX 76060"
+        },
+        {
+            "id": 9,
+            "name": "Falcon Lakes",
+            "address": "6504 Falcon River Way, Arlington, TX 76001"
+        },
+        {
+            "id": 10,
+            "name": "Riverside Apartments",
+            "address": "6600 Rivertrail Cir, Arlington, TX 76001"
+        },
+        {
+            "id": 11,
+            "name": "Addison Park",
+            "address": "4901 Pacific Dr, Arlington, TX 76001"
+        },
+        {
+            "id": 12,
+            "name": "The Atlantic Mansfield",
+            "address": "3251 Matlock Rd, Mansfield, TX 76063"
+        },
+        {
+            "id": 13,
+            "name": "Villas di Lucca",
+            "address": "1601 E Debbie Ln, Mansfield, TX 76063"
+        },
+        {
+            "id": 14,
+            "name": "Villaggio",
+            "address": "Mansfield Webb Rd & E Debbie Ln, Mansfield, TX 76063"
+        },
+        {
+            "id": 15,
+            "name": "Springs at Grand Prairie",
+            "address": "2136 Sara Jane Pky, Grand Prairie, TX 75052"
+        },
+        {
+            "id": 16,
+            "name": "Winding Creek at the Preserve",
+            "address": "2250 Sara Jane Pky, Grand Prairie, TX 75052"
+        },
+        {
+            "id": 17,
+            "name": "Parkways on Prairie Creek",
+            "address": "2530 Sara Jane Pky, Grand Prairie, TX 75052"
+        },
+        {
+            "id": 18,
+            "name": "Creekside at Grand Prairie",
+            "address": "2425 Bardin Rd, Grand Prairie, TX 75052"
+        },
+        {
+            "id": 19,
+            "name": "The Quadrangles on Twenty",
+            "address": "2755 W Interstate 20, Grand Prairie, TX 75052"
+        },
+        {
+            "id": 20,
+            "name": "Arioso",
+            "address": "3030 Claremont Dr, Grand Prairie, TX 75052"
+        },
+        {
+            "id": 21,
+            "name": "Indigo Pointe",
+            "address": "3033 W Bardin Rd, Grand Prairie, TX 75052"
+        },
+        {
+            "id": 22,
+            "name": "Canvas at Grand Prairie",
+            "address": "4450 S State Hwy 360, Arlington, TX 76018"
+        },
+        {
+            "id": 23,
+            "name": "LynnCora",
+            "address": "3145 Lynn Creek Pky, Grand Prairie, TX 75052"
+        },
+        {
+            "id": 24,
+            "name": "Matlock Flats",
+            "address": "710 Eden Rd, Arlington, TX 76001"
+        },
+        {
+            "id": 25,
+            "name": "Bluebonnet Trail Townhomes",
+            "address": "715 Bonnet Trl, Arlington, TX 76001"
+        },
+        {
+            "id": 26,
+            "name": "Parkland Pointe",
+            "address": "907 Pinion Dr, Arlington, TX 76017"
+        },
+        {
+            "id": 27,
+            "name": "Rush Creek",
+            "address": "1200 W Sublett Rd, Arlington, TX 76017"
+        },
+        {
+            "id": 28,
+            "name": "Wimbledon Oaks",
+            "address": "1802 Wimbledon Oaks Ln, Arlington, TX 76017"
+        },
+        {
+            "id": 29,
+            "name": "The Mark at Arlington",
+            "address": "3701 Dr. MLK Jr Dr, Arlington, TX 76014"
+        },
+        {
+            "id": 30,
+            "name": "Ranch Three0Five",
+            "address": "305 Ranch Dr, Arlington, TX 76018"
+        },
+        {
+            "id": 31,
+            "name": "Bardin Greene",
+            "address": "300 E Bardin Rd, Arlington, TX 76018"
+        },
+        {
+            "id": 32,
+            "name": "Villas at Lake Arlington",
+            "address": "4200 W Pleasant Ridge Rd, Arlington, TX 76016"
+        },
+        {
+            "id": 33,
+            "name": "Westley",
+            "address": "2612 Cinnamon Park Cir, Arlington, TX 76016"
+        },
+        {
+            "id": 34,
+            "name": "Shady Valley Square",
+            "address": "3206 Green Tee Dr, Arlington, TX 76013"
+        },
+        {
+            "id": 35,
+            "name": "Woodland Park",
+            "address": "4046 Woodland Park Blvd, Arlington, TX 76013"
+        },
+        {
+            "id": 36,
+            "name": "TwentyOne15",
+            "address": "2115 Park Springs Cir, Arlington, TX 76013"
+        },
+        {
+            "id": 37,
+            "name": "Shadow Ridge",
+            "address": "4001 Hamilton Cir, Arlington, TX 76013"
+        },
+        {
+            "id": 38,
+            "name": "Parkwood Square",
+            "address": "4019 Park Square Dr, Arlington, TX 76013"
+        },
+        {
+            "id": 39,
+            "name": "The Woodlands of Arlington",
+            "address": "2800 Lynnwood Dr, Arlington, TX 76013"
+        },
+        {
+            "id": 40,
+            "name": "Bowen of Arlington Apartments",
+            "address": "2513 Lynnwood Dr, Arlington, TX 76013"
+        },
+        {
+            "id": 41,
+            "name": "Flats at Brentwood",
+            "address": "2100 E Loop 820, Fort Worth, TX 76112"
+        }
+    ],
+    "Amounts": [
+        {
+            "id": 1,
+            "minimum": 999,
+            "maximum": 1780,
+            "apt_id": 1
+        },
+        {
+            "id": 2,
+            "minimum": 1139,
+            "maximum": 1649,
+            "apt_id": 2
+        },
+        {
+            "id": 3,
+            "minimum": 900,
+            "maximum": 1550,
+            "apt_id": 3
+        },
+        {
+            "id": 4,
+            "minimum": 796,
+            "maximum": 1865,
+            "apt_id": 4
+        },
+        {
+            "id": 5,
+            "minimum": 1099,
+            "maximum": 1519,
+            "apt_id": 5
+        },
+        {
+            "id": 6,
+            "minimum": 1135,
+            "maximum": 2969,
+            "apt_id": 6
+        },
+        {
+            "id": 7,
+            "minimum": 2299,
+            "maximum": 2910,
+            "apt_id": 7
+        },
+        {
+            "id": 8,
+            "minimum": 1363,
+            "maximum": 2311,
+            "apt_id": 8
+        },
+        {
+            "id": 9,
+            "minimum": 1195,
+            "maximum": 6568,
+            "apt_id": 9
+        },
+        {
+            "id": 10,
+            "minimum": 1250,
+            "maximum": 2370,
+            "apt_id": 10
+        },
+        {
+            "id": 11,
+            "minimum": 954,
+            "maximum": 1401,
+            "apt_id": 11
+        },
+        {
+            "id": 12,
+            "minimum": 1163,
+            "maximum": 4059,
+            "apt_id": 12
+        },
+        {
+            "id": 13,
+            "minimum": 1395,
+            "maximum": 2145,
+            "apt_id": 13
+        },
+        {
+            "id": 14,
+            "minimum": 1208,
+            "maximum": 2039,
+            "apt_id": 14
+        },
+        {
+            "id": 15,
+            "minimum": 1286,
+            "maximum": 4112,
+            "apt_id": 15
+        },
+        {
+            "id": 16,
+            "minimum": 1320,
+            "maximum": 2105,
+            "apt_id": 16
+        },
+        {
+            "id": 17,
+            "minimum": 1231,
+            "maximum": 3934,
+            "apt_id": 17
+        },
+        {
+            "id": 18,
+            "minimum": 1410,
+            "maximum": 2185,
+            "apt_id": 18
+        },
+        {
+            "id": 19,
+            "minimum": 1205,
+            "maximum": 8539,
+            "apt_id": 19
+        },
+        {
+            "id": 20,
+            "minimum": 1246,
+            "maximum": 4248,
+            "apt_id": 20
+        },
+        {
+            "id": 21,
+            "minimum": 1078,
+            "maximum": 3219,
+            "apt_id": 21
+        },
+        {
+            "id": 22,
+            "minimum": 2725,
+            "maximum": 3199,
+            "apt_id": 22
+        },
+        {
+            "id": 23,
+            "minimum": 1215,
+            "maximum": 2025,
+            "apt_id": 23
+        },
+        {
+            "id": 24,
+            "minimum": 1231,
+            "maximum": 1411,
+            "apt_id": 24
+        },
+        {
+            "id": 25,
+            "minimum": 2390,
+            "maximum": 3090,
+            "apt_id": 25
+        },
+        {
+            "id": 26,
+            "minimum": 938,
+            "maximum": 1925,
+            "apt_id": 26
+        },
+        {
+            "id": 27,
+            "minimum": 1214,
+            "maximum": 1415,
+            "apt_id": 27
+        },
+        {
+            "id": 28,
+            "minimum": 1046,
+            "maximum": 2042,
+            "apt_id": 28
+        },
+        {
+            "id": 29,
+            "minimum": 1408,
+            "maximum": 3005,
+            "apt_id": 29
+        },
+        {
+            "id": 30,
+            "minimum": 1295,
+            "maximum": 1810,
+            "apt_id": 30
+        },
+        {
+            "id": 31,
+            "minimum": 1290,
+            "maximum": 2130,
+            "apt_id": 31
+        },
+        {
+            "id": 32,
+            "minimum": 1275,
+            "maximum": 1954,
+            "apt_id": 32
+        },
+        {
+            "id": 33,
+            "minimum": 975,
+            "maximum": 1995,
+            "apt_id": 33
+        },
+        {
+            "id": 34,
+            "minimum": 999,
+            "maximum": 1999,
+            "apt_id": 34
+        },
+        {
+            "id": 35,
+            "minimum": 1064,
+            "maximum": 2074,
+            "apt_id": 35
+        },
+        {
+            "id": 36,
+            "minimum": 899,
+            "maximum": 1304,
+            "apt_id": 36
+        },
+        {
+            "id": 37,
+            "minimum": 1139,
+            "maximum": 1200,
+            "apt_id": 37
+        },
+        {
+            "id": 38,
+            "minimum": 899,
+            "maximum": 1265,
+            "apt_id": 38
+        },
+        {
+            "id": 39,
+            "minimum": 1025,
+            "maximum": 1925,
+            "apt_id": 39
+        },
+        {
+            "id": 40,
+            "minimum": 1035,
+            "maximum": 1925,
+            "apt_id": 40
+        },
+        {
+            "id": 41,
+            "minimum": 1279,
+            "maximum": 1800,
+            "apt_id": 41
+        }
+    ],
+    "Info": [
+        {
+            "id": 1,
+            "phone_number": "682-297-7983",
+            "url": "https://www.apartments.com/sterling-crest-arlington-tx/8nvctk0/",
+            "apt_id": 1
+        },
+        {
+            "id": 2,
+            "phone_number": "817-618-1994",
+            "url": "https://www.apartments.com/the-trails-apartments-arlington-tx/x9gkh6m/",
+            "apt_id": 2
+        },
+        {
+            "id": 3,
+            "phone_number": "682-297-2524",
+            "url": "https://www.apartments.com/oak-chase-arlington-tx/s6k8s24/",
+            "apt_id": 3
+        },
+        {
+            "id": 4,
+            "phone_number": "682-297-6734",
+            "url": "https://www.apartments.com/parks-at-treepoint-arlington-tx/jc0egz4/",
+            "apt_id": 4
+        },
+        {
+            "id": 5,
+            "phone_number": "817-839-3436",
+            "url": "https://www.apartments.com/kennington-apartments-arlington-tx/gmqsygy/",
+            "apt_id": 5
+        },
+        {
+            "id": 6,
+            "phone_number": "682-297-4912",
+            "url": "https://www.apartments.com/southpoint-villas-arlington-tx/0vn4hj2/",
+            "apt_id": 6
+        },
+        {
+            "id": 7,
+            "phone_number": "682-267-4791",
+            "url": "https://www.apartments.com/town-arlington-arlington-tx/9jqm6r7/",
+            "apt_id": 7
+        },
+        {
+            "id": 8,
+            "phone_number": "682-297-6771",
+            "url": "https://www.apartments.com/alta-landing-kennedale-tx/k7mbkj9/",
+            "apt_id": 8
+        },
+        {
+            "id": 9,
+            "phone_number": "682-305-3539",
+            "url": "https://www.apartments.com/falcon-lakes-arlington-tx/6kt154s/",
+            "apt_id": 9
+        },
+        {
+            "id": 10,
+            "phone_number": "817-672-9291",
+            "url": "https://www.apartments.com/riverside-apartments-arlington-tx/3d0ewxf/",
+            "apt_id": 10
+        },
+        {
+            "id": 11,
+            "phone_number": "682-297-5308",
+            "url": "https://www.apartments.com/addison-park-arlington-tx/l6wxtvf/",
+            "apt_id": 11
+        },
+        {
+            "id": 12,
+            "phone_number": "682-297-6707",
+            "url": "https://www.apartments.com/the-atlantic-mansfield-mansfield-tx/w2b38xh/",
+            "apt_id": 12
+        },
+        {
+            "id": 13,
+            "phone_number": "844-998-2946",
+            "url": "https://www.apartments.com/villas-di-lucca-mansfield-tx/qzfvyhx/",
+            "apt_id": 13
+        },
+        {
+            "id": 14,
+            "phone_number": "817-839-2874",
+            "url": "https://www.apartments.com/villaggio-mansfield-tx/9khbed7/",
+            "apt_id": 14
+        },
+        {
+            "id": 15,
+            "phone_number": "682-297-7934",
+            "url": "https://www.apartments.com/springs-at-grand-prairie-grand-prairie-tx/9nwrk35/",
+            "apt_id": 15
+        },
+        {
+            "id": 16,
+            "phone_number": "682-297-5087",
+            "url": "https://www.apartments.com/winding-creek-at-the-preserve-grand-prairie-tx/gw342bx/",
+            "apt_id": 16
+        },
+        {
+            "id": 17,
+            "phone_number": "682-297-4990",
+            "url": "https://www.apartments.com/parkways-on-prairie-creek-grand-prairie-tx/wlqct7k/",
+            "apt_id": 17
+        },
+        {
+            "id": 18,
+            "phone_number": "469-998-1199",
+            "url": "https://www.apartments.com/creekside-at-grand-prairie-grand-prairie-tx/7g2bf1x/",
+            "apt_id": 18
+        },
+        {
+            "id": 19,
+            "phone_number": "469-515-7582",
+            "url": "https://www.apartments.com/the-quadrangles-on-twenty-grand-prairie-tx/8n955w1/",
+            "apt_id": 19
+        },
+        {
+            "id": 20,
+            "phone_number": "817-969-3815",
+            "url": "https://www.apartments.com/arioso-grand-prairie-tx/9rgn9m5/",
+            "apt_id": 20
+        },
+        {
+            "id": 21,
+            "phone_number": "817-765-5775",
+            "url": "https://www.apartments.com/indigo-pointe-grand-prairie-tx/4r5wczh/",
+            "apt_id": 21
+        },
+        {
+            "id": 22,
+            "phone_number": "469-416-3098",
+            "url": "https://www.apartments.com/canvas-at-grand-prairie-arlington-tx/h8z4c82/",
+            "apt_id": 22
+        },
+        {
+            "id": 23,
+            "phone_number": "469-507-2675",
+            "url": "https://www.apartments.com/lynncora-grand-prairie-tx/vy987jf/",
+            "apt_id": 23
+        },
+        {
+            "id": 24,
+            "phone_number": "817-672-9403",
+            "url": "https://www.apartments.com/matlock-flats-arlington-tx/dlfb52h/",
+            "apt_id": 24
+        },
+        {
+            "id": 25,
+            "phone_number": "833-406-0286",
+            "url": "https://www.apartments.com/bluebonnet-trail-townhomes-arlington-tx/fmhw33r/",
+            "apt_id": 25
+        },
+        {
+            "id": 26,
+            "phone_number": "682-297-5042",
+            "url": "https://www.apartments.com/parkland-pointe-arlington-tx/jsbp7t4/",
+            "apt_id": 26
+        },
+        {
+            "id": 27,
+            "phone_number": "682-297-4697",
+            "url": "https://www.apartments.com/rush-creek-arlington-tx/k5hjjz9/",
+            "apt_id": 27
+        },
+        {
+            "id": 28,
+            "phone_number": "682-297-4763",
+            "url": "https://www.apartments.com/wimbledon-oaks-arlington-tx/bxdwjrc/",
+            "apt_id": 28
+        },
+        {
+            "id": 29,
+            "phone_number": "682-765-5448",
+            "url": "https://www.apartments.com/the-mark-at-arlington-arlington-tx/m80nkhl/",
+            "apt_id": 29
+        },
+        {
+            "id": 30,
+            "phone_number": "817-969-3180",
+            "url": "https://www.apartments.com/ranch-three0five-arlington-tx/lsp4glf/",
+            "apt_id": 30
+        },
+        {
+            "id": 31,
+            "phone_number": "844-988-1941",
+            "url": "https://www.apartments.com/bardin-greene-arlington-tx/wb8d48j/",
+            "apt_id": 31
+        },
+        {
+            "id": 32,
+            "phone_number": "682-297-5378",
+            "url": "https://www.apartments.com/villas-at-lake-arlington-arlington-tx/s5wr0e4/",
+            "apt_id": 32
+        },
+        {
+            "id": 33,
+            "phone_number": "817-969-3361",
+            "url": "https://www.apartments.com/westley-arlington-tx/8nw6sc3/",
+            "apt_id": 33
+        },
+        {
+            "id": 34,
+            "phone_number": "817-839-2104",
+            "url": "https://www.apartments.com/shady-valley-square-arlington-tx/m06jlhk/",
+            "apt_id": 34
+        },
+        {
+            "id": 35,
+            "phone_number": "682-452-6087",
+            "url": "https://www.apartments.com/woodland-park-arlington-tx/2sf1pc9/",
+            "apt_id": 35
+        },
+        {
+            "id": 36,
+            "phone_number": "682-297-6451",
+            "url": "https://www.apartments.com/twentyone15-arlington-tx/4j53dcj/",
+            "apt_id": 36
+        },
+        {
+            "id": 37,
+            "phone_number": "682-900-2944",
+            "url": "https://www.apartments.com/shadow-ridge-arlington-tx/bv0swpc/",
+            "apt_id": 37
+        },
+        {
+            "id": 38,
+            "phone_number": "855-941-5907",
+            "url": "https://www.apartments.com/parkwood-square-arlington-tx/0yb0yk0/",
+            "apt_id": 38
+        },
+        {
+            "id": 39,
+            "phone_number": "682-297-5225",
+            "url": "https://www.apartments.com/the-woodlands-of-arlington-arlington-tx/wedmrvh/",
+            "apt_id": 39
+        },
+        {
+            "id": 40,
+            "phone_number": "469-278-7405",
+            "url": "https://www.apartments.com/bowen-of-arlington-apartments-arlington-tx/99nyd37/",
+            "apt_id": 40
+        },
+        {
+            "id": 41,
+            "phone_number": "817-670-9081",
+            "url": "https://www.apartments.com/flats-at-brentwood-fort-worth-tx/78n453z/",
+            "apt_id": 41
+        }
+    ],
+    "Coords": [
+        {
+            "id": 1,
+            "long": 32.66671802730842,
+            "lat": -97.2178505819086,
+            "apt_id": 1
+        },
+        {
+            "id": 2,
+            "long": 32.667091233279194,
+            "lat": -97.21574537467666,
+            "apt_id": 2
+        },
+        {
+            "id": 3,
+            "long": 32.66741776304213,
+            "lat": -97.21349318137479,
+            "apt_id": 3
+        },
+        {
+            "id": 4,
+            "long": 32.666309263817794,
+            "lat": -97.21159892319254,
+            "apt_id": 4
+        },
+        {
+            "id": 5,
+            "long": 32.664790556412974,
+            "lat": -97.2090272314898,
+            "apt_id": 5
+        },
+        {
+            "id": 6,
+            "long": 32.654832178704744,
+            "lat": -97.1942943640587,
+            "apt_id": 6
+        },
+        {
+            "id": 7,
+            "long": 32.649096964459766,
+            "lat": -97.19075340953606,
+            "apt_id": 7
+        },
+        {
+            "id": 8,
+            "long": 32.6445830740816,
+            "lat": -97.18976497643489,
+            "apt_id": 8
+        },
+        {
+            "id": 9,
+            "long": 32.64218474783506,
+            "lat": -97.18679391153512,
+            "apt_id": 9
+        },
+        {
+            "id": 10,
+            "long": 32.642885600666375,
+            "lat": -97.18454029446072,
+            "apt_id": 10
+        },
+        {
+            "id": 11,
+            "long": 32.64093053867847,
+            "lat": -97.18407895778812,
+            "apt_id": 11
+        },
+        {
+            "id": 12,
+            "long": 32.60967302682068,
+            "lat": -97.11979813166315,
+            "apt_id": 12
+        },
+        {
+            "id": 13,
+            "long": 32.60917170047854,
+            "lat": -97.11134492389513,
+            "apt_id": 13
+        },
+        {
+            "id": 14,
+            "long": 32.609984298184074,
+            "lat": -97.10942183718258,
+            "apt_id": 14
+        },
+        {
+            "id": 15,
+            "long": 32.67983349832571,
+            "lat": -97.03029095043888,
+            "apt_id": 15
+        },
+        {
+            "id": 16,
+            "long": 32.678245452714506,
+            "lat": -97.0363496941954,
+            "apt_id": 16
+        },
+        {
+            "id": 17,
+            "long": 32.678601690813366,
+            "lat": -97.04116282362473,
+            "apt_id": 17
+        },
+        {
+            "id": 18,
+            "long": 32.6724402621338,
+            "lat": -97.04157653480313,
+            "apt_id": 18
+        },
+        {
+            "id": 19,
+            "long": 32.675534197537566,
+            "lat": -97.04969545252872,
+            "apt_id": 19
+        },
+        {
+            "id": 20,
+            "long": 32.669924992719274,
+            "lat": -97.06163126867371,
+            "apt_id": 20
+        },
+        {
+            "id": 21,
+            "long": 32.67336559002783,
+            "lat": -97.05744157294083,
+            "apt_id": 21
+        },
+        {
+            "id": 22,
+            "long": 32.66529110629153,
+            "lat": -97.06178896060574,
+            "apt_id": 22
+        },
+        {
+            "id": 23,
+            "long": 32.63536124796851,
+            "lat": -97.0620852200835,
+            "apt_id": 23
+        },
+        {
+            "id": 24,
+            "long": 32.63429591976142,
+            "lat": -97.11759279446538,
+            "apt_id": 24
+        },
+        {
+            "id": 25,
+            "long": 32.64470288639335,
+            "lat": -97.11851333510117,
+            "apt_id": 25
+        },
+        {
+            "id": 26,
+            "long": 32.648430188337755,
+            "lat": -97.12478629445688,
+            "apt_id": 26
+        },
+        {
+            "id": 27,
+            "long": 32.647817362552274,
+            "lat": -97.13121662090174,
+            "apt_id": 27
+        },
+        {
+            "id": 28,
+            "long": 32.662665205802014,
+            "lat": -97.1356026478186,
+            "apt_id": 28
+        },
+        {
+            "id": 29,
+            "long": 32.682592720104864,
+            "lat": -97.10319898023842,
+            "apt_id": 29
+        },
+        {
+            "id": 30,
+            "long": 32.67136217459098,
+            "lat": -97.10830669498239,
+            "apt_id": 30
+        },
+        {
+            "id": 31,
+            "long": 32.67110634369497,
+            "lat": -97.11050689524473,
+            "apt_id": 31
+        },
+        {
+            "id": 32,
+            "long": 32.682857000453886,
+            "lat": -97.17425162936206,
+            "apt_id": 32
+        },
+        {
+            "id": 33,
+            "long": 32.70138277968105,
+            "lat": -97.16170784958226,
+            "apt_id": 33
+        },
+        {
+            "id": 34,
+            "long": 32.71646536694763,
+            "lat": -97.16618237559996,
+            "apt_id": 34
+        },
+        {
+            "id": 35,
+            "long": 32.713177305686536,
+            "lat": -97.17071632243677,
+            "apt_id": 35
+        },
+        {
+            "id": 36,
+            "long": 32.71305092909545,
+            "lat": -97.16824333614272,
+            "apt_id": 36
+        },
+        {
+            "id": 37,
+            "long": 32.71064270060921,
+            "lat": -97.16908349858758,
+            "apt_id": 37
+        },
+        {
+            "id": 38,
+            "long": 32.70879493113111,
+            "lat": -97.16840928288144,
+            "apt_id": 38
+        },
+        {
+            "id": 39,
+            "long": 32.723881368346355,
+            "lat": -97.15191505880728,
+            "apt_id": 39
+        },
+        {
+            "id": 40,
+            "long": 32.725042866369506,
+            "lat": -97.1496437527802,
+            "apt_id": 40
+        },
+        {
+            "id": 41,
+            "long": 32.74917605074397,
+            "lat": -97.22102080206918,
+            "apt_id": 41
+        }
+    ]
+}
