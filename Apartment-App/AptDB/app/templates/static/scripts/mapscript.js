@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", function() {
     {
         var marker = L.marker(coordsData[i]).addTo(map);
         var markerTxt = "<b>" + namesData[i] + "</b><br>" + addressData[i];
-        marker.bindPopup(markerTxt).openPopup();
+        marker.bindPopup(markerTxt);
     }
   
     // Add a marker to the map

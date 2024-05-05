@@ -12,7 +12,7 @@
     <!-- Your header content here -->
     <img src="{% static 'imgs/apt-background.png' %}" alt="Background Image">
     <div class="hybrid-display w3-padding w3-col l6 m8">
-        <div class="w3-container logo">
+        <div class="w3-container logo" style="top: -110px;">
             <img src="{% static 'imgs/logo.png' %}" alt="Background Image" width="95%" height="95%">
         </div>
         <div class="w3-container w3-blue">
@@ -24,11 +24,25 @@
                 <div class="w3-row-padding" style="margin:0 -16px;">
                     <div class="w3-half w3-margin-bottom">
                         <label><i class="fa fa-money"></i> Monthly Minimum</label>
-                        <input class="w3-input w3-border" type="number" placeholder="500" name="Rent" min="500">
+                        <input class="w3-input w3-border" type="number" placeholder="400" name="rent_min" min="400">
+                    </div>
+                    <div class="w3-half w3-margin-bottom">
+                        <label><i class="fa fa-money"></i> Monthly Maximum</label>
+                        <input class="w3-input w3-border" type="number" placeholder="500" name="rent_max" min="500">
+                    </div>
+                    <div class="w3-half">
+                        <label><i class="fa fa-truck"></i> City</label>
+                        <select class="w3-select w3-border" name="city">
+                            <option value="" disabled selected>Choose your city</option>
+                            {% for city in cities%}
+                                <option value={{city}}>{{city}}</option>
+                            {% endfor %}
+                            <!-- Add more options as needed -->
+                        </select>
                     </div>
                     <div class="w3-half">
                         <label><i class="fa fa-truck"></i> Zip Code</label>
-                        <input class="w3-input w3-border" type="text" placeholder="76010" name="ZipCode">
+                        <input class="w3-input w3-border" type="text" placeholder="76010" name="zip_code">
                     </div>
                 </div>
                 <button class="w3-button w3-dark-grey" type="submit"><i class="fa fa-search w3-margin-right"></i> Search</button>
