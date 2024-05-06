@@ -204,6 +204,181 @@
             "id": 41,
             "name": "Flats at Brentwood",
             "address": "2100 E Loop 820, Fort Worth, TX 76112"
+        },
+        {
+            "id": 42,
+            "name": "Ascend at Chisholm Trail",
+            "address": "9701 Theo Trl, Fort Worth, TX 76123"
+        },
+        {
+            "id": 43,
+            "name": "The Trails at Summer Creek",
+            "address": "9069 Summer Creek Dr, Fort Worth, TX 76123"
+        },
+        {
+            "id": 44,
+            "name": "Cottages at Summer Creek",
+            "address": "5401 Barlean Rnch, Fort Worth, TX 76123"
+        },
+        {
+            "id": 45,
+            "name": "Tides on Westcreek",
+            "address": "6776 W Creek Dr, Fort Worth, TX 76133"
+        },
+        {
+            "id": 46,
+            "name": "Sunset Pointe Apartments",
+            "address": "5400 Sycamore School Rd, Fort Worth, TX 76123"
+        },
+        {
+            "id": 47,
+            "name": "Trinity Meadows Apartments",
+            "address": "4633 Sycamore School Rd, Fort Worth, TX 76133"
+        },
+        {
+            "id": 48,
+            "name": "Hulen Gardens Apartments",
+            "address": "7415 Tallow Wind Trl, Fort Worth, TX 76133"
+        },
+        {
+            "id": 49,
+            "name": "Candle Chase",
+            "address": "6822 S Hulen St, Fort Worth, TX 76133"
+        },
+        {
+            "id": 50,
+            "name": "Chisholm at Tavolo Park",
+            "address": "7354 Harris Pky, Fort Worth, TX 76132"
+        },
+        {
+            "id": 51,
+            "name": "Cumberland on Granbury",
+            "address": "6850 Granbury Rd, Fort Worth, TX 76133"
+        },
+        {
+            "id": 52,
+            "name": "Fort Worth Meadows Apartments",
+            "address": "7721 Dutch Branch Rd, Fort Worth, TX 76132"
+        },
+        {
+            "id": 53,
+            "name": "Park at Leblanc",
+            "address": "6250 Granbury Cut Off St, Fort Worth, TX 76132"
+        },
+        {
+            "id": 54,
+            "name": "Tides on Hulen",
+            "address": "6351 Hulen Bend Blvd, Fort Worth, TX 76132"
+        },
+        {
+            "id": 55,
+            "name": "The Hub at Chisholm Trail",
+            "address": "6401 Hulen Bend Blvd, Fort Worth, TX 76132"
+        },
+        {
+            "id": 56,
+            "name": "Mylo Apartment Homes",
+            "address": "6500 Hulen Bend Blvd, Fort Worth, TX 76132"
+        },
+        {
+            "id": 57,
+            "name": "Southern Oaks",
+            "address": "5500 S Hulen St, Fort Worth, TX 76132"
+        },
+        {
+            "id": 58,
+            "name": "The Haven on Chisholm Trail",
+            "address": "5700 S Hulen St, Fort Worth, TX 76132"
+        },
+        {
+            "id": 59,
+            "name": "Chesapeake Apartments",
+            "address": "6047 S Hulen St, Fort Worth, TX 76132"
+        },
+        {
+            "id": 60,
+            "name": "The Arbors on Oakmont",
+            "address": "6000 Oakmont Trl, Fort Worth, TX 76132"
+        },
+        {
+            "id": 61,
+            "name": "Aviva Fort Worth",
+            "address": "6150 Oakmont Trl, Fort Worth, TX 76132"
+        },
+        {
+            "id": 62,
+            "name": "Windsong",
+            "address": "1600 Cooks Ln, Fort Worth, TX 76120"
+        },
+        {
+            "id": 63,
+            "name": "Maxwell Apartments",
+            "address": "8300 Brentwood Stair Rd, Fort Worth, TX 76120"
+        },
+        {
+            "id": 64,
+            "name": "The Chase Apartments",
+            "address": "1901 Eastchase Pky, Fort Worth, TX 76120"
+        },
+        {
+            "id": 65,
+            "name": "Lofton Place",
+            "address": "1601 Eastchase Pky, Fort Worth, TX 76120"
+        },
+        {
+            "id": 66,
+            "name": "Venue at 8651",
+            "address": "8651 Meadowbrook Blvd, Fort Worth, TX 76120"
+        },
+        {
+            "id": 67,
+            "name": "Horizons at Sunridge",
+            "address": "9001 Meadowbrook Blvd, Fort Worth, TX 76120"
+        },
+        {
+            "id": 68,
+            "name": "The Reese at Eastchase",
+            "address": "9001 Randol Mill Rd, Fort Worth, TX 76120"
+        },
+        {
+            "id": 69,
+            "name": "Tides on Randol East",
+            "address": "8951 Randol Mill Rd, Fort Worth, TX 76120"
+        },
+        {
+            "id": 70,
+            "name": "Tides at Eastchase",
+            "address": "8900 Randoll Mill Rd, Fort Worth, TX 76120"
+        },
+        {
+            "id": 71,
+            "name": "Tides on Randol West",
+            "address": "8925 Randol Mill Rd, Fort Worth, TX 76120"
+        },
+        {
+            "id": 72,
+            "name": "Silverleaf Apartments",
+            "address": "8515 John T White Rd, Fort Worth, TX 76120"
+        },
+        {
+            "id": 73,
+            "name": "Tuscany Apartments",
+            "address": "1401 Morrison Dr, Fort Worth, TX 76112"
+        },
+        {
+            "id": 74,
+            "name": "The Madeleine",
+            "address": "1505 Homedale Dr, Fort Worth, TX 76112"
+        },
+        {
+            "id": 75,
+            "name": "Riverwalk TX",
+            "address": "7412 Ederville Rd, Fort Worth, TX 76112"
+        },
+        {
+            "id": 76,
+            "name": "Steeplechase",
+            "address": "7501 Ederville Rd, Fort Worth, TX 76112"
         }
     ],
     "Amounts": [
@@ -452,6 +627,216 @@
             "minimum": 1279,
             "maximum": 1800,
             "apt_id": 41
+        },
+        {
+            "id": 42,
+            "minimum": 1199,
+            "maximum": 2557,
+            "apt_id": 42
+        },
+        {
+            "id": 43,
+            "minimum": 1178,
+            "maximum": 2234,
+            "apt_id": 43
+        },
+        {
+            "id": 44,
+            "minimum": 1141,
+            "maximum": 3155,
+            "apt_id": 44
+        },
+        {
+            "id": 45,
+            "minimum": 821,
+            "maximum": 1584,
+            "apt_id": 45
+        },
+        {
+            "id": 46,
+            "minimum": 971,
+            "maximum": 1506,
+            "apt_id": 46
+        },
+        {
+            "id": 47,
+            "minimum": 1109,
+            "maximum": 1409,
+            "apt_id": 47
+        },
+        {
+            "id": 48,
+            "minimum": 1129,
+            "maximum": 1700,
+            "apt_id": 48
+        },
+        {
+            "id": 49,
+            "minimum": 975,
+            "maximum": 1135,
+            "apt_id": 49
+        },
+        {
+            "id": 50,
+            "minimum": 1410,
+            "maximum": 2617,
+            "apt_id": 50
+        },
+        {
+            "id": 51,
+            "minimum": 1410,
+            "maximum": 1739,
+            "apt_id": 51
+        },
+        {
+            "id": 52,
+            "minimum": 1649,
+            "maximum": 2542,
+            "apt_id": 52
+        },
+        {
+            "id": 53,
+            "minimum": 1248,
+            "maximum": 1565,
+            "apt_id": 53
+        },
+        {
+            "id": 54,
+            "minimum": 915,
+            "maximum": 1165,
+            "apt_id": 54
+        },
+        {
+            "id": 55,
+            "minimum": 879,
+            "maximum": 1214,
+            "apt_id": 55
+        },
+        {
+            "id": 56,
+            "minimum": 799,
+            "maximum": 1076,
+            "apt_id": 56
+        },
+        {
+            "id": 57,
+            "minimum": 981,
+            "maximum": 1952,
+            "apt_id": 57
+        },
+        {
+            "id": 58,
+            "minimum": 939,
+            "maximum": 1454,
+            "apt_id": 58
+        },
+        {
+            "id": 59,
+            "minimum": 1006,
+            "maximum": 1682,
+            "apt_id": 59
+        },
+        {
+            "id": 60,
+            "minimum": 1015,
+            "maximum": 1907,
+            "apt_id": 60
+        },
+        {
+            "id": 61,
+            "minimum": 1439,
+            "maximum": 2393,
+            "apt_id": 61
+        },
+        {
+            "id": 62,
+            "minimum": 1356,
+            "maximum": 7687,
+            "apt_id": 62
+        },
+        {
+            "id": 63,
+            "minimum": 925,
+            "maximum": 1465,
+            "apt_id": 63
+        },
+        {
+            "id": 64,
+            "minimum": 875,
+            "maximum": 1445,
+            "apt_id": 64
+        },
+        {
+            "id": 65,
+            "minimum": 799,
+            "maximum": 1999,
+            "apt_id": 65
+        },
+        {
+            "id": 66,
+            "minimum": 878,
+            "maximum": 6545,
+            "apt_id": 66
+        },
+        {
+            "id": 67,
+            "minimum": 950,
+            "maximum": 1860,
+            "apt_id": 67
+        },
+        {
+            "id": 68,
+            "minimum": 849,
+            "maximum": 1270,
+            "apt_id": 68
+        },
+        {
+            "id": 69,
+            "minimum": 919,
+            "maximum": 2649,
+            "apt_id": 69
+        },
+        {
+            "id": 70,
+            "minimum": 755,
+            "maximum": 1823,
+            "apt_id": 70
+        },
+        {
+            "id": 71,
+            "minimum": 1035,
+            "maximum": 1600,
+            "apt_id": 71
+        },
+        {
+            "id": 72,
+            "minimum": 1177,
+            "maximum": 1727,
+            "apt_id": 72
+        },
+        {
+            "id": 73,
+            "minimum": 890,
+            "maximum": 1450,
+            "apt_id": 73
+        },
+        {
+            "id": 74,
+            "minimum": 825,
+            "maximum": 1295,
+            "apt_id": 74
+        },
+        {
+            "id": 75,
+            "minimum": 845,
+            "maximum": 1500,
+            "apt_id": 75
+        },
+        {
+            "id": 76,
+            "minimum": 895,
+            "maximum": 1615,
+            "apt_id": 76
         }
     ],
     "Info": [
@@ -700,6 +1085,216 @@
             "phone_number": "817-670-9081",
             "url": "https://www.apartments.com/flats-at-brentwood-fort-worth-tx/78n453z/",
             "apt_id": 41
+        },
+        {
+            "id": 42,
+            "phone_number": "817-646-3593",
+            "url": "817-646-3593",
+            "apt_id": 42
+        },
+        {
+            "id": 43,
+            "phone_number": "682-382-9699",
+            "url": "682-382-9699",
+            "apt_id": 43
+        },
+        {
+            "id": 44,
+            "phone_number": "682-255-1082",
+            "url": "682-255-1082",
+            "apt_id": 44
+        },
+        {
+            "id": 45,
+            "phone_number": "682-900-6887",
+            "url": "682-900-6887",
+            "apt_id": 45
+        },
+        {
+            "id": 46,
+            "phone_number": "682-267-5257",
+            "url": "682-267-5257",
+            "apt_id": 46
+        },
+        {
+            "id": 47,
+            "phone_number": "682-312-4034",
+            "url": "682-312-4034",
+            "apt_id": 47
+        },
+        {
+            "id": 48,
+            "phone_number": "817-986-0567",
+            "url": "817-986-0567",
+            "apt_id": 48
+        },
+        {
+            "id": 49,
+            "phone_number": "682-900-2156",
+            "url": "682-900-2156",
+            "apt_id": 49
+        },
+        {
+            "id": 50,
+            "phone_number": "682-204-0554",
+            "url": "682-204-0554",
+            "apt_id": 50
+        },
+        {
+            "id": 51,
+            "phone_number": "817-623-5540",
+            "url": "817-623-5540",
+            "apt_id": 51
+        },
+        {
+            "id": 52,
+            "phone_number": "817-784-7169",
+            "url": "817-784-7169",
+            "apt_id": 52
+        },
+        {
+            "id": 53,
+            "phone_number": "817-839-4729",
+            "url": "817-839-4729",
+            "apt_id": 53
+        },
+        {
+            "id": 54,
+            "phone_number": "682-204-9306",
+            "url": "682-204-9306",
+            "apt_id": 54
+        },
+        {
+            "id": 55,
+            "phone_number": "682-708-9692",
+            "url": "682-708-9692",
+            "apt_id": 55
+        },
+        {
+            "id": 56,
+            "phone_number": "682-204-7717",
+            "url": "682-204-7717",
+            "apt_id": 56
+        },
+        {
+            "id": 57,
+            "phone_number": "682-708-9347",
+            "url": "682-708-9347",
+            "apt_id": 57
+        },
+        {
+            "id": 58,
+            "phone_number": "682-900-6883",
+            "url": "682-900-6883",
+            "apt_id": 58
+        },
+        {
+            "id": 59,
+            "phone_number": "682-297-8455",
+            "url": "682-297-8455",
+            "apt_id": 59
+        },
+        {
+            "id": 60,
+            "phone_number": "682-204-1390",
+            "url": "682-204-1390",
+            "apt_id": 60
+        },
+        {
+            "id": 61,
+            "phone_number": "682-900-2745",
+            "url": "682-900-2745",
+            "apt_id": 61
+        },
+        {
+            "id": 62,
+            "phone_number": "682-267-6236",
+            "url": "682-267-6236",
+            "apt_id": 62
+        },
+        {
+            "id": 63,
+            "phone_number": "682-204-6385",
+            "url": "682-204-6385",
+            "apt_id": 63
+        },
+        {
+            "id": 64,
+            "phone_number": "682-297-5402",
+            "url": "682-297-5402",
+            "apt_id": 64
+        },
+        {
+            "id": 65,
+            "phone_number": "682-277-1923",
+            "url": "682-277-1923",
+            "apt_id": 65
+        },
+        {
+            "id": 66,
+            "phone_number": "817-672-9398",
+            "url": "817-672-9398",
+            "apt_id": 66
+        },
+        {
+            "id": 67,
+            "phone_number": "682-297-4077",
+            "url": "682-297-4077",
+            "apt_id": 67
+        },
+        {
+            "id": 68,
+            "phone_number": "817-672-9095",
+            "url": "817-672-9095",
+            "apt_id": 68
+        },
+        {
+            "id": 69,
+            "phone_number": "817-969-3123",
+            "url": "817-969-3123",
+            "apt_id": 69
+        },
+        {
+            "id": 70,
+            "phone_number": "682-297-7377",
+            "url": "682-297-7377",
+            "apt_id": 70
+        },
+        {
+            "id": 71,
+            "phone_number": "817-969-3120",
+            "url": "817-969-3120",
+            "apt_id": 71
+        },
+        {
+            "id": 72,
+            "phone_number": "682-255-0878",
+            "url": "682-255-0878",
+            "apt_id": 72
+        },
+        {
+            "id": 73,
+            "phone_number": "817-968-3576",
+            "url": "817-968-3576",
+            "apt_id": 73
+        },
+        {
+            "id": 74,
+            "phone_number": "855-753-2339",
+            "url": "855-753-2339",
+            "apt_id": 74
+        },
+        {
+            "id": 75,
+            "phone_number": "682-328-0838",
+            "url": "682-328-0838",
+            "apt_id": 75
+        },
+        {
+            "id": 76,
+            "phone_number": "817-835-6488",
+            "url": "817-835-6488",
+            "apt_id": 76
         }
     ],
     "Coords": [
@@ -948,6 +1543,216 @@
             "long": 32.74917605074397,
             "lat": -97.22102080206918,
             "apt_id": 41
+        },
+        {
+            "id": 42,
+            "long": 32.60407641075139,
+            "lat": -97.41475612389324,
+            "apt_id": 42
+        },
+        {
+            "id": 43,
+            "long": 32.609001266958536,
+            "lat": -97.40671449846832,
+            "apt_id": 43
+        },
+        {
+            "id": 44,
+            "long": 32.61067516791748,
+            "lat": -97.40804439647596,
+            "apt_id": 44
+        },
+        {
+            "id": 45,
+            "long": 32.64539616108122,
+            "lat": -97.3666637516993,
+            "apt_id": 45
+        },
+        {
+            "id": 46,
+            "long": 32.63191198967692,
+            "lat": -97.41147397678652,
+            "apt_id": 46
+        },
+        {
+            "id": 47,
+            "long": 32.63214457332013,
+            "lat": -97.3907446632999,
+            "apt_id": 47
+        },
+        {
+            "id": 48,
+            "long": 32.63419222085501,
+            "lat": -97.39307121008315,
+            "apt_id": 48
+        },
+        {
+            "id": 49,
+            "long": 32.647274769159324,
+            "lat": -97.3963479142611,
+            "apt_id": 49
+        },
+        {
+            "id": 50,
+            "long": 32.643382458085064,
+            "lat": -97.42284167181496,
+            "apt_id": 50
+        },
+        {
+            "id": 51,
+            "long": 32.64797872207212,
+            "lat": -97.41050262388889,
+            "apt_id": 51
+        },
+        {
+            "id": 52,
+            "long": 32.650830165034655,
+            "lat": -97.42787744290494,
+            "apt_id": 52
+        },
+        {
+            "id": 53,
+            "long": 32.6565680599286,
+            "lat": -97.40824493792127,
+            "apt_id": 53
+        },
+        {
+            "id": 54,
+            "long": 32.65780734837879,
+            "lat": -97.40449980570591,
+            "apt_id": 54
+        },
+        {
+            "id": 55,
+            "long": 32.657581902156736,
+            "lat": -97.40655611749034,
+            "apt_id": 55
+        },
+        {
+            "id": 56,
+            "long": 32.65972036409982,
+            "lat": -97.40703071007893,
+            "apt_id": 56
+        },
+        {
+            "id": 57,
+            "long": 32.669655171993746,
+            "lat": -97.40131326681797,
+            "apt_id": 57
+        },
+        {
+            "id": 58,
+            "long": 32.66717332867719,
+            "lat": -97.40159222404331,
+            "apt_id": 58
+        },
+        {
+            "id": 59,
+            "long": 32.662510754687816,
+            "lat": -97.40046575147552,
+            "apt_id": 59
+        },
+        {
+            "id": 60,
+            "long": 32.66190814195568,
+            "lat": -97.40865393359474,
+            "apt_id": 60
+        },
+        {
+            "id": 61,
+            "long": 32.660205413045695,
+            "lat": -97.40986932461276,
+            "apt_id": 61
+        },
+        {
+            "id": 62,
+            "long": 32.755296595546284,
+            "lat": -97.18407370516147,
+            "apt_id": 62
+        },
+        {
+            "id": 63,
+            "long": 32.75220830600044,
+            "lat": -97.17299401065789,
+            "apt_id": 63
+        },
+        {
+            "id": 64,
+            "long": 32.751381030970784,
+            "lat": -97.17065566314805,
+            "apt_id": 64
+        },
+        {
+            "id": 65,
+            "long": 32.75577544176314,
+            "lat": -97.16720868192407,
+            "apt_id": 65
+        },
+        {
+            "id": 66,
+            "long": 32.75860314494943,
+            "lat": -97.16452883144704,
+            "apt_id": 66
+        },
+        {
+            "id": 67,
+            "long": 32.758887525518084,
+            "lat": -97.15890441526462,
+            "apt_id": 67
+        },
+        {
+            "id": 68,
+            "long": 32.75902905784812,
+            "lat": -97.15541239779472,
+            "apt_id": 68
+        },
+        {
+            "id": 69,
+            "long": 32.76172198366904,
+            "lat": -97.15781109957771,
+            "apt_id": 69
+        },
+        {
+            "id": 70,
+            "long": 32.761735352470566,
+            "lat": -97.16116775309443,
+            "apt_id": 70
+        },
+        {
+            "id": 71,
+            "long": 32.76271685598163,
+            "lat": -97.16004519417497,
+            "apt_id": 71
+        },
+        {
+            "id": 72,
+            "long": 32.766140495526734,
+            "lat": -97.16964019601856,
+            "apt_id": 72
+        },
+        {
+            "id": 73,
+            "long": 32.75859003497363,
+            "lat": -97.18950004558651,
+            "apt_id": 73
+        },
+        {
+            "id": 74,
+            "long": 32.75647969033667,
+            "lat": -97.19619292005086,
+            "apt_id": 74
+        },
+        {
+            "id": 75,
+            "long": 32.75897536230027,
+            "lat": -97.19351146309292,
+            "apt_id": 75
+        },
+        {
+            "id": 76,
+            "long": 32.758745285607446,
+            "lat": -97.19310913200407,
+            "apt_id": 76
         }
     ]
 }
