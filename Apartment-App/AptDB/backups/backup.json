@@ -1754,5 +1754,387 @@
             "lat": -97.19310913200407,
             "apt_id": 76
         }
+    ],
+    "Images": [
+        {
+            "id": 1,
+            "src": "https://images1.apartments.com/i2/9-HNUjnUmbdEycdMOdbb4uYpLlV_i2E0-y4T2leWdn0/111/sterling-crest-arlington-tx-primary-photo.jpg?p=1",
+            "apt_id": 1
+        },
+        {
+            "id": 2,
+            "src": "https://images1.apartments.com/i2/vslHCvreDuFdIdluSm4G-VUtZYd5e-S-9_UqQkYuYHs/117/the-trails-apartments-arlington-tx-building-photo.jpg?p=1",
+            "apt_id": 2
+        },
+        {
+            "id": 3,
+            "src": "https://images1.apartments.com/i2/ip5iewbTV8jPGTr6Rwjt6qaQU9eb3AlVK2etWGN2Xhg/117/oak-chase-arlington-tx-building-photo.jpg?p=1",
+            "apt_id": 3
+        },
+        {
+            "id": 4,
+            "src": "https://images1.apartments.com/i2/q6f4lN3SciI8aAjhjsvmxuJ6P6tCz_zFpa0CP6ARrek/117/parks-at-treepoint-arlington-tx-building-photo.jpg?p=1",
+            "apt_id": 4
+        },
+        {
+            "id": 5,
+            "src": "https://images1.apartments.com/i2/5LWysE_5lK80KyThHMX3o3w_lwNfGQpB0AwRrR0lEOM/117/kennington-apartments-arlington-tx-building-photo.jpg?p=1",
+            "apt_id": 5
+        },
+        {
+            "id": 6,
+            "src": "https://images1.apartments.com/i2/PYCOSvugdxiWpFg5VaaFIrK3uQyCO0fvMT-IoaXeh9o/117/southpoint-villas-arlington-tx-building-photo.jpg?p=1",
+            "apt_id": 6
+        },
+        {
+            "id": 7,
+            "src": "https://images1.apartments.com/i2/4_b8Ds-Lxi53tjFhNSZb-ul6xm_qI2uAlDS4O0sX7Ro/117/town-arlington-arlington-tx-building-photo.jpg?p=1",
+            "apt_id": 7
+        },
+        {
+            "id": 8,
+            "src": "https://images1.apartments.com/i2/Ru1VZlbJ1HnZ3AaqpcuaneXSefbpa0RYKcaaZ9tPzsU/117/alta-landing-kennedale-tx-building-photo.jpg?p=1",
+            "apt_id": 8
+        },
+        {
+            "id": 9,
+            "src": "https://images1.apartments.com/i2/iSa-F3o6c7_CvzuXzncrqLBvCcYCG_vzQSkKNgfPWGU/111/falcon-lakes-arlington-tx-primary-photo.jpg?p=1",
+            "apt_id": 9
+        },
+        {
+            "id": 10,
+            "src": "https://images1.apartments.com/i2/iwnKabrEN8zws8od2R3YC-Ym0OrgoBus3yZ-vT2oU_w/117/riverside-apartments-arlington-tx-building-photo.jpg?p=1",
+            "apt_id": 10
+        },
+        {
+            "id": 11,
+            "src": "https://images1.apartments.com/i2/KqGnZfSMM7J-bOW6ixh6qSd71LdJL-JrveWikc3gAjk/117/addison-park-arlington-tx-pool.jpg?p=1",
+            "apt_id": 11
+        },
+        {
+            "id": 12,
+            "src": "https://images1.apartments.com/i2/ijNBwndfVAtwI37fKpUbaC0D4VhKWvbonROcTixIuqo/116/the-atlantic-mansfield-mansfield-tx-building-photo.jpg?p=1",
+            "apt_id": 12
+        },
+        {
+            "id": 13,
+            "src": "https://images1.apartments.com/i2/RwcI94MHY7w4J_qlwJiaLJUNFcpiJQaMQ59UO51F3P8/117/villas-di-lucca-mansfield-tx-villas-di-lucca-apartments-with-attached.jpg?p=1",
+            "apt_id": 13
+        },
+        {
+            "id": 14,
+            "src": "https://images1.apartments.com/i2/qX_mu2XsTEQORDr_o2sDCfjYEybsgVcMKPenXmVNT0w/117/villaggio-mansfield-tx-building-photo.jpg?p=1",
+            "apt_id": 14
+        },
+        {
+            "id": 15,
+            "src": "https://images1.apartments.com/i2/Sak3Qj6N_r6LVUhwuTLfM5mnn4CKxvSbI0nPhXgZcLc/117/springs-at-grand-prairie-grand-prairie-tx-leasing-office.jpg?p=1",
+            "apt_id": 15
+        },
+        {
+            "id": 16,
+            "src": "https://images1.apartments.com/i2/UZPq3h--K7BUzztmj-q0e3aSVBVh1gag-pOQ57W197U/111/winding-creek-at-the-preserve-grand-prairie-tx-resort-style-swimming-pool.jpg?p=1",
+            "apt_id": 16
+        },
+        {
+            "id": 17,
+            "src": "https://images1.apartments.com/i2/6sAFf4WI_jxgLE6208T9AsAMg2eD8vpxO8DcNQ8W6XI/117/parkways-on-prairie-creek-grand-prairie-tx-parkways-on-prairie-creek-is-surrounded-.jpg?p=1",
+            "apt_id": 17
+        },
+        {
+            "id": 18,
+            "src": "https://images1.apartments.com/i2/SrHLFozVsPlpMYCDzcZlvSx5t4CfikKmpZ5Sw31KCmU/111/creekside-at-grand-prairie-grand-prairie-tx-primary-photo.jpg?p=1",
+            "apt_id": 18
+        },
+        {
+            "id": 19,
+            "src": "https://images1.apartments.com/i2/i1rKstSHtYtZLFD5KwvCcFD1w5Y5GEJeJqTYtt-zpYs/117/the-quadrangles-on-twenty-grand-prairie-tx-building-photo.jpg?p=1",
+            "apt_id": 19
+        },
+        {
+            "id": 20,
+            "src": "https://images1.apartments.com/i2/B6dmanRRFj5uvkZSCSrvNNtp4m6toYZ7i4Cm-HLRUQM/111/arioso-grand-prairie-tx-primary-photo.jpg?p=1",
+            "apt_id": 20
+        },
+        {
+            "id": 21,
+            "src": "https://images1.apartments.com/i2/jY4MCNZZB2HA6lrDufL1-w6u07ASe6tdrBRWAsbg3Hc/117/indigo-pointe-grand-prairie-tx-leasing-office.jpg?p=1",
+            "apt_id": 21
+        },
+        {
+            "id": 22,
+            "src": "https://images1.apartments.com/i2/mJfYEtTMCGqyK2zY12tRCl3ipGMGQJ_zJ3Bk3qCva7w/111/canvas-at-grand-prairie-arlington-tx-primary-photo.jpg?p=1",
+            "apt_id": 22
+        },
+        {
+            "id": 23,
+            "src": "https://images1.apartments.com/i2/SAwK4b-8M4Os3HVLyDP-f8mxIzqSK4Ddbdvmh_Z-xTI/111/lynncora-grand-prairie-tx-primary-photo.jpg?p=1",
+            "apt_id": 23
+        },
+        {
+            "id": 24,
+            "src": "https://images1.apartments.com/i2/7U8Ysm39kw0ZBbyxF-mXE3cIWHrG2Hh1Lj4-aEvGvsY/111/matlock-flats-arlington-tx-primary-photo.jpg?p=1",
+            "apt_id": 24
+        },
+        {
+            "id": 25,
+            "src": "https://images1.apartments.com/i2/f4c_zpoCnmwFtzyxni3Wl_ppMneE0eLlTYMekC8VPhg/111/bluebonnet-trail-townhomes-arlington-tx-primary-photo.jpg?p=1",
+            "apt_id": 25
+        },
+        {
+            "id": 26,
+            "src": "https://images1.apartments.com/i2/rU1OKaXfPyuaFJ2mofry1wVwfW_O_ii6Pwh7q-ReaDQ/117/parkland-pointe-arlington-tx-building-photo.jpg?p=1",
+            "apt_id": 26
+        },
+        {
+            "id": 27,
+            "src": "https://images1.apartments.com/i2/i32qpPY4KnuuoMgF-50mWlQXCJl94wM6iRa-40c4Ya8/117/rush-creek-arlington-tx-building-photo.jpg?p=1",
+            "apt_id": 27
+        },
+        {
+            "id": 28,
+            "src": "https://images1.apartments.com/i2/Hx6KPBsmctlb69yU-cKJGTCRuX0G9syX_Xa_vhmqjeE/117/wimbledon-oaks-arlington-tx-building-photo.jpg?p=1",
+            "apt_id": 28
+        },
+        {
+            "id": 29,
+            "src": "https://images1.apartments.com/i2/MKy3eNFSmhuzGW0_OvrA6okGiGLFWEnXYfWKJKC5cp8/117/the-mark-at-arlington-arlington-tx-building-photo.jpg?p=1",
+            "apt_id": 29
+        },
+        {
+            "id": 30,
+            "src": "https://images1.apartments.com/i2/Vs-Nk6N3dqoI0n89jI9HibZGUbuRfJJZYfvAXQ-8C7Q/117/ranch-three0five-arlington-tx-building-photo.jpg?p=1",
+            "apt_id": 30
+        },
+        {
+            "id": 31,
+            "src": "https://images1.apartments.com/i2/nHGNL9sXIKZN_92VFdceclx8ziywMU5h96M6KzMvWks/117/bardin-greene-arlington-tx-signage.jpg?p=1",
+            "apt_id": 31
+        },
+        {
+            "id": 32,
+            "src": "https://images1.apartments.com/i2/Gm_-deOeCvcpElDQ7K00yEg0unbZhyMZCQ3EAgo-leQ/117/villas-at-lake-arlington-arlington-tx-building-photo.jpg?p=1",
+            "apt_id": 32
+        },
+        {
+            "id": 33,
+            "src": "https://images1.apartments.com/i2/9zIEwTZYYak4yg3Jv-Cmni7OiaBK87Ll66q-YCcNa0g/117/westley-arlington-tx-building-photo.jpg?p=1",
+            "apt_id": 33
+        },
+        {
+            "id": 34,
+            "src": "https://images1.apartments.com/i2/KANy9MefF5AIgidMy3t9MG1VFWkv_2meigaVPGzCb6s/117/shady-valley-square-arlington-tx-building-photo.jpg?p=1",
+            "apt_id": 34
+        },
+        {
+            "id": 35,
+            "src": "https://images1.apartments.com/i2/zbunT33zZyIyOzjY7WWtLcIH8zxRzQ3ylyrLIyH-_Kc/117/woodland-park-arlington-tx-building-photo.jpg?p=1",
+            "apt_id": 35
+        },
+        {
+            "id": 36,
+            "src": "https://images1.apartments.com/i2/XCKwIVd__d0UFiUqsEdCfrmn9OS87LsAdEBWRCScQzk/117/twentyone15-arlington-tx-building-photo.jpg?p=1",
+            "apt_id": 36
+        },
+        {
+            "id": 37,
+            "src": "https://images1.apartments.com/i2/mfTiXf699u8hCw1gv1Uzq9SnOKc1N-0u6jeGXeoiZu0/117/shadow-ridge-arlington-tx-b3-2br-1ba---830sf-patio.jpg?p=1",
+            "apt_id": 37
+        },
+        {
+            "id": 38,
+            "src": "https://images1.apartments.com/i2/LDXiH8bExRfp_lydrsaAZN3SxP3wnrplLIUKoPnAFE0/111/parkwood-square-arlington-tx-primary-photo.png?p=1",
+            "apt_id": 38
+        },
+        {
+            "id": 39,
+            "src": "https://images1.apartments.com/i2/Mg3nFUi9o_uDtbSdNMFmaOto5ry6ARZ3xy6rb9-OXOc/117/the-woodlands-of-arlington-arlington-tx-welcoem-home.jpg?p=1",
+            "apt_id": 39
+        },
+        {
+            "id": 40,
+            "src": "https://images1.apartments.com/i2/9hpCjUNGroMGP9BenYcMURaDIR7yc979CmkFdOAC4o0/117/bowen-of-arlington-apartments-arlington-tx-building-photo.jpg?p=1",
+            "apt_id": 40
+        },
+        {
+            "id": 41,
+            "src": "https://images1.apartments.com/i2/fmtrfEKD963Dz-4T1H_qQgtGvT4LUwW4Z19fX6hoNmE/117/flats-at-brentwood-fort-worth-tx-apartments-in-fort-worth-tx.jpg?p=1",
+            "apt_id": 41
+        },
+        {
+            "id": 42,
+            "src": "https://images1.apartments.com/i2/YxsGpBiVtmVjvWJTgtIfog7mjcmxL_Xheum1JNtmSs0/111/ascend-at-chisholm-trail-fort-worth-tx-primary-photo.jpg?p=1",
+            "apt_id": 42
+        },
+        {
+            "id": 43,
+            "src": "https://images1.apartments.com/i2/ayhYktDhmPQFj-qJXHVbM1YepvYH1sxr5F73etqeDrI/117/the-trails-at-summer-creek-fort-worth-tx-building-photo.jpg?p=1",
+            "apt_id": 43
+        },
+        {
+            "id": 44,
+            "src": "https://images1.apartments.com/i2/MS9gGxX_jVB0RiNJMGtfkyWkZqCUE_FCRk8MHqMwPQk/111/cottages-at-summer-creek-fort-worth-tx-primary-photo.jpg?p=1",
+            "apt_id": 44
+        },
+        {
+            "id": 45,
+            "src": "https://images1.apartments.com/i2/s0MXD-MNAObBATsLQxGdiGmFMKfY0RXYtmRf78YPetI/117/tides-on-westcreek-fort-worth-tx-oh2a88631-1.jpg?p=1",
+            "apt_id": 45
+        },
+        {
+            "id": 46,
+            "src": "https://images1.apartments.com/i2/OwDrJnFqaGVzln3_3vgRHqZRuYMA_YY1fG2KHj5EyYg/111/sunset-pointe-apartments-fort-worth-tx-primary-photo.jpg?p=1",
+            "apt_id": 46
+        },
+        {
+            "id": 47,
+            "src": "https://images1.apartments.com/i2/ODXipI-ByGlde8b7yBcfk0Ql_uk_ES_NlCtNNJvI49U/111/trinity-meadows-apartments-fort-worth-tx-primary-photo.jpg?p=1",
+            "apt_id": 47
+        },
+        {
+            "id": 48,
+            "src": "https://images1.apartments.com/i2/VP3tuF9cczlebT7wVTldhJ5AG6SPkZ9ZpRY8jtegYMM/117/hulen-gardens-apartments-fort-worth-tx-building-photo.jpg?p=1",
+            "apt_id": 48
+        },
+        {
+            "id": 49,
+            "src": "https://images1.apartments.com/i2/cHc9FlAIM7anLkKnB6KRkl-M-9X0n6DF5lYWyc0IuU4/117/candle-chase-fort-worth-tx-building-photo.jpg?p=1",
+            "apt_id": 49
+        },
+        {
+            "id": 50,
+            "src": "https://images1.apartments.com/i2/DH_lmbcFh58uyhVo9czrXUv6NU7eaNECdqedT9nnYnM/117/chisholm-at-tavolo-park-fort-worth-tx-building-photo.png?p=1",
+            "apt_id": 50
+        },
+        {
+            "id": 51,
+            "src": "https://images1.apartments.com/i2/7JngLW9frGSJjfn1jD-OlSpRbB_Q61vkVklM1TFvF0Q/111/cumberland-on-granbury-fort-worth-tx-primary-photo.jpg?p=1",
+            "apt_id": 51
+        },
+        {
+            "id": 52,
+            "src": "https://images1.apartments.com/i2/fSrJqR7VDXTjw2uLhde_EXO_mSHJBC6hATn8GIgnh9E/117/fort-worth-meadows-apartments-fort-worth-tx-signage.jpg?p=1",
+            "apt_id": 52
+        },
+        {
+            "id": 53,
+            "src": "https://images1.apartments.com/i2/4ITTO8n-Dk2POhitGHoQX3-CnTw26KOQaESXN3nnBfg/117/park-at-leblanc-fort-worth-tx-building-photo.jpg?p=1",
+            "apt_id": 53
+        },
+        {
+            "id": 54,
+            "src": "https://images1.apartments.com/i2/daul3D8wnPrP8W3xVYWHN4RL1-63_HrptN39CPkuomA/117/tides-on-hulen-fort-worth-tx-building-photo.jpg?p=1",
+            "apt_id": 54
+        },
+        {
+            "id": 55,
+            "src": "https://images1.apartments.com/i2/nXUJe4tPL2D6pXjAYBVhdci8wVVa6hhTPQ5KBh-Zk7s/117/the-hub-at-chisholm-trail-fort-worth-tx-building-photo.jpg?p=1",
+            "apt_id": 55
+        },
+        {
+            "id": 56,
+            "src": "https://images1.apartments.com/i2/C2vc24UkcvmaQ5ilr6ctqTQXXmVuP9dyAIvh_nObZEI/117/mylo-apartment-homes-fort-worth-tx-building-photo.jpg?p=1",
+            "apt_id": 56
+        },
+        {
+            "id": 57,
+            "src": "https://images1.apartments.com/i2/PQaE0Xnih_QP_poNbBG0wVeEEShsHVG25YV3D1N_-gM/117/southern-oaks-fort-worth-tx-building-photo.jpg?p=1",
+            "apt_id": 57
+        },
+        {
+            "id": 58,
+            "src": "https://images1.apartments.com/i2/4rAgSE_Unb1yM9KcO2PX_YejLcWcLr9g-6M2Pbyu5cE/117/the-haven-on-chisholm-trail-fort-worth-tx-building-photo.jpg?p=1",
+            "apt_id": 58
+        },
+        {
+            "id": 59,
+            "src": "https://images1.apartments.com/i2/AgN6uhfjzOtXamqBjWjtFwe85bgw0_I3ZKgXF-riW9s/117/chesapeake-apartments-fort-worth-tx-courtyard.jpg?p=1",
+            "apt_id": 59
+        },
+        {
+            "id": 60,
+            "src": "https://images1.apartments.com/i2/ej6y4pwnIrkPzmoyEYmHxzDK-QoqCg15Bud_hXWKjfo/117/the-arbors-on-oakmont-fort-worth-tx-building-photo.jpg?p=1",
+            "apt_id": 60
+        },
+        {
+            "id": 61,
+            "src": "https://images1.apartments.com/i2/HcIxsWlWlOhA0BqvFiu6OByEp2mCGqOwm60of9Lw0S0/111/aviva-fort-worth-fort-worth-tx-primary-photo.jpg?p=1",
+            "apt_id": 61
+        },
+        {
+            "id": 62,
+            "src": "https://images1.apartments.com/i2/vFszV1iAGaoR5lg_VjL0EsottZODxMNcbQ6ImUX9D70/117/windsong-fort-worth-tx-building-photo.jpg?p=1",
+            "apt_id": 62
+        },
+        {
+            "id": 63,
+            "src": "https://images1.apartments.com/i2/cNKGagsI7x2waPfG-jJKUz39hNg8wx4TVvplfTuH2v8/117/maxwell-apartments-fort-worth-tx-building-photo.jpg?p=1",
+            "apt_id": 63
+        },
+        {
+            "id": 64,
+            "src": "https://images1.apartments.com/i2/TJ1Wny6RON3_aaeCGtyHKDW8KqQAl7iN0ylIleukyL4/117/the-chase-apartments-fort-worth-tx-building-photo.jpg?p=1",
+            "apt_id": 64
+        },
+        {
+            "id": 65,
+            "src": "https://images1.apartments.com/i2/HZEsenzvpV96WW8Zqu35a_Aui0VY_JO9gF7I1FWcdrA/117/lofton-place-fort-worth-tx-building-photo.jpg?p=1",
+            "apt_id": 65
+        },
+        {
+            "id": 66,
+            "src": "https://images1.apartments.com/i2/UajGDlCUJpbNsZvXpnPZ24M7BqHeQY2LhdsJhrJR6ns/117/venue-at-8651-fort-worth-tx-building-photo.jpg?p=1",
+            "apt_id": 66
+        },
+        {
+            "id": 67,
+            "src": "https://images1.apartments.com/i2/rhXHYjIOrtyae2GVV_wxh4Gx5fWGuAWGWRlURbnvTgI/117/horizons-at-sunridge-fort-worth-tx-amenities-center.jpg?p=1",
+            "apt_id": 67
+        },
+        {
+            "id": 68,
+            "src": "https://images1.apartments.com/i2/F-lYsMrnM7TnTTrbsnm2QE0NJii8sVorrhKpwAuJAs8/117/the-reese-at-eastchase-fort-worth-tx-building-photo.jpg?p=1",
+            "apt_id": 68
+        },
+        {
+            "id": 69,
+            "src": "https://images1.apartments.com/i2/EqHXQzrHmVHFVXkGvDX_PS0xW8kFItIUwmPkCfoRTc8/117/tides-on-randol-east-fort-worth-tx-building-photo.jpg?p=1",
+            "apt_id": 69
+        },
+        {
+            "id": 70,
+            "src": "https://images1.apartments.com/i2/ldhaMMecHt16y99NYtFhSXt-ys8dzr64ocC9M97DAv8/117/tides-at-eastchase-fort-worth-tx-community-signage.jpg?p=1",
+            "apt_id": 70
+        },
+        {
+            "id": 71,
+            "src": "https://images1.apartments.com/i2/vYO56QYQt97LOjm4STNwnzUfmQYEFFoEMOgDxro3yjA/117/tides-on-randol-west-fort-worth-tx-building-photo.jpg?p=1",
+            "apt_id": 71
+        },
+        {
+            "id": 72,
+            "src": "https://images1.apartments.com/i2/xcoOvOMumlqaGxbTFUSAcf1fvKbgmpGpeJiuVwX1M80/117/silverleaf-apartments-fort-worth-tx-leasing-office.jpg?p=1",
+            "apt_id": 72
+        },
+        {
+            "id": 73,
+            "src": "https://images1.apartments.com/i2/Zxz4OgEmkNsixtGmwJ1jm5mVg61TnRYzYqqgCfV9ymw/117/tuscany-apartments-fort-worth-tx-leasing-office.jpg?p=1",
+            "apt_id": 73
+        },
+        {
+            "id": 74,
+            "src": "https://images1.apartments.com/i2/68hRy1rgX2DCZZnwEyasFtCcDDXlb-2ZbKKM4CeMQkI/117/the-madeleine-fort-worth-tx-1br1ba---846---loft---living-area.jpg?p=1",
+            "apt_id": 74
+        },
+        {
+            "id": 75,
+            "src": "https://images1.apartments.com/i2/rdvbgSEK6rGn7WMzqF8o0Uo3iSCg9w5LHmYhL49rtLo/117/riverwalk-tx-fort-worth-tx-building-photo.jpg?p=1",
+            "apt_id": 75
+        },
+        {
+            "id": 76,
+            "src": "https://images1.apartments.com/i2/6QoX_nEbUZxD-LlZYgFucyICSsS4BWqVz9ylLgKiSjw/111/steeplechase-fort-worth-tx-primary-photo.jpg?p=1",
+            "apt_id": 76
+        }
     ]
 }

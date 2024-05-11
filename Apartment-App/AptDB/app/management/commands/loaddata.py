@@ -1,6 +1,6 @@
 import json
 from django.core.management.base import BaseCommand
-from app.models import Apt, Amounts, Info, Coords
+from app.models import Apt, Amounts, Info, Coords, Images
 import os
 
 class Command(BaseCommand):
@@ -21,11 +21,11 @@ class Command(BaseCommand):
         with open(backup_file_path, 'r') as file:
             data = json.load(file)
 
-            apt, amounts, info, coord = data['Apt'], data['Amounts'], data['Info'], data['Coords']
+            apt, amounts, info, coord, image = data['Apt'], data['Amounts'], data['Info'], data['Coords'], data['Images']
 
-            apt_length, amounts_length, info_length, coord_length = len(apt), len(amounts), len(info), len(coord)
+            apt_length, amounts_length, info_length, coord_length, image_length = len(apt), len(amounts), len(info), len(coord), len(image)
 
-            if apt_length == amounts_length == info_length == coord_length:
+            if apt_length == amounts_length == info_length == coord_length == image_length:
                 
                 for i in range(apt_length):
 
@@ -40,6 +40,9 @@ class Command(BaseCommand):
 
                     # Create a new Coords instance associated with the newly created Apt
                     Coords.objects.create(long=coord[i]['long'], lat=coord[i]['lat'], apt=new_apt)
+
+                    # Create a new Images instance associated with the newly created Apt
+                    Images.objects.create(src=image[i]['src'], apt=new_apt)
 
 
         # Output that Backup of Data 

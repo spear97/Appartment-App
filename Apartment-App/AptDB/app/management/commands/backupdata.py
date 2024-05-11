@@ -1,6 +1,6 @@
 import json
 from django.core.management.base import BaseCommand
-from app.models import Apt, Amounts, Info, Coords
+from app.models import Apt, Amounts, Info, Coords, Images
 import os
 
 class Command(BaseCommand):
@@ -13,12 +13,14 @@ class Command(BaseCommand):
         amounts_data = list(Amounts.objects.values())
         info_data = list(Info.objects.values())
         coords_data = list(Coords.objects.values())
+        img_data = list(Images.objects.values())
 
         data_to_backup = {
             'Apt': apt_data,
             'Amounts': amounts_data,
             'Info': info_data,
-            'Coords': coords_data
+            'Coords': coords_data,
+            'Images': img_data
         }
 
         # Serialize data to JSON

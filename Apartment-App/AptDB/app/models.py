@@ -5,7 +5,7 @@ class Apt(models.Model):
     address = models.CharField(max_length=300)
 
     def __str__(self):
-        return "{self.name} {self.address}"
+        return f"Name: {self.name} | Address: {self.address}"
 
 class Amounts(models.Model):
     minimum = models.BigIntegerField()
@@ -13,7 +13,7 @@ class Amounts(models.Model):
     apt = models.ForeignKey(Apt, on_delete=models.CASCADE)
 
     def __str__(self):
-        return "{self.minimum} {self.maximum}"
+        return f"Min: ${self.minimum} | Max: ${self.maximum}"
 
 class Info(models.Model):
     phone_number = models.CharField(max_length=50)
@@ -21,9 +21,19 @@ class Info(models.Model):
     apt = models.ForeignKey(Apt, on_delete=models.CASCADE)
 
     def __str__(self):
-        return "{self.phone_number} {self.url}"
+        return f"Phone Number:{self.phone_number} | URL:{self.url}"
 
 class Coords(models.Model):
     long = models.FloatField()
     lat = models.FloatField()
     apt = models.ForeignKey(Apt, on_delete=models.CASCADE)
+
+    def __str__(self):
+        return f"({self.long}, {self.lat})"
+
+class Images(models.Model):
+    src = models.CharField(max_length=2083)
+    apt = models.ForeignKey(Apt, on_delete=models.CASCADE)
+
+    def __str__(self):
+        return f"Src: {self.src}"
