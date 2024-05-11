@@ -42,12 +42,20 @@ def browse_all(request):
     # Retrieve all links from the Info model
     all_links = list(Info.objects.values_list('url', flat=True))
 
+    # Retrieve all images from the Image model
+    all_imgs = list(Images.objects.values_list('src', flat=True))
+
+    # Retrive all phone_number from the Info model
+    all_number = list(Info.objects.values_list('phone_number', flat=True))
+
     content = {
         'names': json.dumps(all_names),
         'addresses': json.dumps(all_addresses),
         'mins': json.dumps(all_mins),
         'maxs': json.dumps(all_maxs),
         'links': json.dumps(all_links),
+        'imgs': json.dumps(all_imgs),
+        'numbers': json.dumps(all_number),
     }
     
     return render(request, 'browseall.html', content)
