@@ -4,6 +4,7 @@ This Django-based web application designed to help users search for apartments u
 
 ## Table of Contents
 - [What is Django?](#Django)
+- [Application](#Description)
 
 ## Django
 
@@ -27,7 +28,7 @@ Django is a high-level Python web framework that encourages rapid development an
 - `Community and Ecosystem`: Django has a large and active community of developers, along with a rich ecosystem of third-party packages and extensions.
 - `Documentation`: Django offers comprehensive and well-organized documentation that covers all aspects of web development with the framework.
 
-## Apt App
+## Description
 
 The application features a database that stores information for each apartment, including names, addresses, price ranges, images, and coordinates.
 
