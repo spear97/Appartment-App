@@ -1,6 +1,6 @@
 # Apartment App
 
-This is a Web Application that utilizes Django. 
+This Django-based web application designed to help users search for apartments using an interactive map interface powered by Leaflet.
 
 ## Table of Contents
 - [What is Django?](#Django)
@@ -26,3 +26,16 @@ Django is a high-level Python web framework that encourages rapid development an
 - `Versatility`: Django can be used to build a wide range of web applications, including content management systems (CMS), social networks, e-commerce platforms, and more.
 - `Community and Ecosystem`: Django has a large and active community of developers, along with a rich ecosystem of third-party packages and extensions.
 - `Documentation`: Django offers comprehensive and well-organized documentation that covers all aspects of web development with the framework.
+
+## Apt App
+
+The application features a database that stores information for each apartment, including names, addresses, price ranges, images, and coordinates.
+
+### Key Features
+1. `Leaflet Integration`: The landing page of the web application utilizes Leaflet, an open-source JavaScript library, to display an interactive map. All the locations of apartments stored in the database are plotted on this map, providing users with a visual representation of available housing options in their desired area.
+2. `Apartment Model`: The project includes Django models to represent apartment listings. These models store relevant information such as apartment names, addresses, price ranges, images, and coordinates (latitude and longitude).
+3. `Dynamic Data Transfer Pipeline`: To enhance dynamic behavior, the project implements a data transfer pipeline that seamlessly passes data from Python (Django backend) to HTML templates and JavaScript (frontend). This ensures efficient communication between different components of the application, enabling real-time updates and interactions on the user interface.
+4. `User-Friendly Interface`: The web application offers a user-friendly interface that allows users to easily browse through apartment listings, filter results based on criteria such as price range and location, and view detailed information and images for each apartment.
+5. `Scalable Architecture`: The project is built following Django's scalable architecture, allowing for easy expansion and customization. Administrators can manage apartment listings through an admin interface, adding, editing, or removing listings as needed.
+
+Overall, the Apartment Locator with Leaflet Integration project provides users with a convenient and visually appealing platform to search for apartments, while also offering administrators the tools to efficiently manage property listings.
