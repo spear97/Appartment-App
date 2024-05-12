@@ -131,16 +131,6 @@ def search_apts(request):
                 contacts = contacts.filter(apt_id__in=amt_ids)
                 images = images.filter(apt_id__in=amt_ids)
 
-            """
-            # Filter apartments based on city and zip_code
-            apartments = list(apartments)
-            amounts = list(amounts)
-            contacts = list(contacts)
-            images = list(images)
-
-            print(f"apartments: {len(apartments)} amounts: {len(amounts)} contacts: {len(contacts)} images: {len(images)}")
-            """
-
             # Retrieve all addresses from Apt model
             all_addresses = list(apartments.values_list('address', flat=True))
 
